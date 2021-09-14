@@ -4,7 +4,7 @@ export const members: Member[] = [
     {
         name: "Zenn",
         avatarSrc: "/avatars/zenn.jpg",
-        sources: ["https://zenn.dev/sukedon/feed"],
+        sources: ["https://zenn.dev/sukedon/feed?include_scraps=1"],
         websiteUrl: "https://zenn.dev/sukedon",
     },
     {
